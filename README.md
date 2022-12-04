@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WcaleNieWolny
-- 👀 I’m interested in making spigot plugins and jda bots
+- 👀 I’m interested in making spigot plugins and rust programs
 - 🌱 I’m currently learning rust and kotlin
 - 📫 Reach me on discord: WcaleNieWolny#9599
 
